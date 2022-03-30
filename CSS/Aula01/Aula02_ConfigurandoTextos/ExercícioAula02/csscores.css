@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(168, 190, 231);
+}
+h1 {
+  color: rgb(206, 88, 180);
+}
+h2 {
+  color: rgb(red, green, blue);
+}
+h3 {
+  color: #ff0000;
+}
+h4 {
+  color: hsl(30, 20%, 40%);
+}
