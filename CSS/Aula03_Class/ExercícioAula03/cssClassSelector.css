@@ -1,0 +1,38 @@
+@charset "utf-8";
+body{
+    background-color: cadetblue;
+    color: white;
+    font-family: Arial, Verdana, sans-serif;
+}
+h1{
+   background-color: darkcyan;
+   text-shadow: 3px 3px 5px #cccccc;
+}
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: darkcyan;  
+}
+h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: darkslategray;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+h4 {
+    background-color: darkslategray;
+}
+.cor_texto{
+    color: white;
+}
+.fundo {
+ color: black;
+}
+div.container {
+    /* display: block;
+    margin: auto;
+    width: 20%; */
+    display: flex;
+    justify-content: center;
+}
