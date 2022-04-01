@@ -1,0 +1,14 @@
+.esqueci{
+    color: cyan;
+}
+#esqueci2{
+    color: darksalmon;
+}
+p#Sobrenome{
+    color:  darkgrey;
+}
+section p{
+    color: lightcoral;
+    font-size: 23px;
+    background-color: burlywood;
+}
