@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercicio em Sala</title>
+    <link rel="stylesheet" href="estilo.css">
+    <style>
+        p::selection {
+            background-color: lightgreen;
+        }
+
+        ::selection {
+            background-color: red;
+            color: white;
+        }
+
+        p::first-letter {
+            font-size: 30px;
+            background-color: cornflowerblue;
+        }
+        
+        .mylist li:first-child {
+            background-color: green;
+        }
+
+        .mylist li:nth-child(4) {
+            background-color: green;
+        }
+
+        .mylist li:nth-child(6) {
+            background-color: green;
+        }
+
+        .mylist li:last-child {
+            background-color: green;
+        }
+        </style>
+</head>
+
+<body>
+
+    <!-- PONTOS TURISTICOS QUE JÁ VISITEI EM SP OU LUGARES MAIS LEGAIS QUE VISITEI EM SP -->
+    <!-- EXERCICIO EM SALA 
+
+         >> Ao selecionar qualquer paragrafo a cor de fundo deve ser verde claro (um verde de sua escolha)
+         >> Ao selecionar qualquer texto que não for um paragrafo a cor de fundo tem que ser vermelho e cor de texto branco
+         >> Toda primeira letra dos paragrafos tem que estar em Maiuscula e com cor de fundo
+         >> Retire o estilo dos links, troque a cor preto, no momento em que passar o mouse por cima do link ele tem que alterar para a cor Verde escuro
+         >> Ao clicar na imagem ela tem que ficar com foco
+         >> Na lista não ordenada você prcisa fazer uma lista com 4 locais que já visitou e 4 que quer visitar coloque os locais que já visitou nos locais indicado e grife eles com a cor verde
+    -->
+    <header>
+            <!-- Alinhe um ao lado do outr, centralize o texto e troque a cor de preto para Verde -->
+            <img class="img1" src="saopaulo.webp" alt="sp">
+            <h1>Meus pontos turisticos/ lugar mais legais que já visitei</h1>
+            
+       
+    </header>
+
+    <main>
+        <div>
+            <img width="300" height="250" src="AvenidaPaulista.jpg" alt="Av">
+            <p>
+                A Avenida Paulista é um dos logradouros mais importantes do município de São Paulo, a capital do estado
+                homônimo. Está localizada no limite entre as zonas Centro-Sul, Central e Oeste; e em uma das regiões
+                mais elevadas da cidade, chamada de Espigão da Paulista. Considerada um dos principais centros
+                financeiros da cidade, assim como também um dos seus pontos turísticos mais característicos, a avenida
+                revela sua importância não só como polo econômico, mas também como centralidade cultural e de
+                entretenimento.
+            </p>
+            <a href="#"></a>
+        </div>
+
+        <div>
+            <img width="300" height="250" src="museucatavento.jpg" alt="Museu">
+            <p>O Museu Catavento é um museu interativo, inaugurado em 2009 com o propósito de se dedicar às ciências e
+                sua divulgação e está localizado no Palácio das Indústrias, em São Paulo, Brasil. O espaço de 12.000
+                metros quadrados é dividido em 4 seções: "Universo", "Vida", "Engenho" e "Sociedade" e conta com mais de
+                250 instalações. Voltado ao público jovem, foi fundado pelas secretarias estaduais de cultura e
+                educação, com um investimento de 20 milhões de reais após 14 meses de construção.</p>
+            <a href="#"></a>
+        </div>
+
+        <div>
+            <img width="300" height="250" src="hopihari.png" alt="parquea">
+            <p>
+                Hopi Hari é um parque temático brasileiro localizado no quilômetro 72 da Rodovia dos Bandeirantes, no
+                município de Vinhedo, interior do estado de São Paulo. O parque está a 30 km de Campinas e 72 km de São
+                Paulo. Com 760 mil metros quadrados, é considerado um dos maiores parques de diversão da América Latina
+                e foi projetado como um país fictício, com presidente, capital, idioma próprio, entre outras
+                características, com seus funcionários sendo os habitantes (hópius).
+            </p>
+            <a href="#"></a>
+        </div>
+
+        <div>
+            <ul class="mylist">
+                <li>Avenida Paulista</li>
+                <!--Já foi-->
+                <li>Campos do jordão</li>
+                <li>Magic City</li>
+                <li>Museu Catavento</li>
+                <!--Já foi-->
+                <li>Ilha bela</li>
+                <li>Hopi Hari</li>
+                <!--Já foi-->
+                <li>Aquário de São Paulo</li>
+                <li>Parque Ibirapuera</li>
+                <!--Já foi-->
+            </ul>
+        </div>
+    </main>
+    <footer>
+        <p>2022 @ :copy | Todos os direitos reservados | Breno Vinicius</p>
+    </footer>
+
+</body>
+
+</html>
