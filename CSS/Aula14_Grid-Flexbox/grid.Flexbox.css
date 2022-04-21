@@ -3,7 +3,11 @@
 body {
   font-size: 1.3rem;
   font-family: "Oswald", sans-serif;
-  background: darkslategray;
+  background-image: url(img2/backcoragem.png);
+}
+
+h1 {
+  text-align: center;
 }
 
 .container {
@@ -21,9 +25,11 @@ body {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 1rem;
-  background: dimgray;
+  background: rgba(255, 255, 255, 0.582);
   margin-bottom: 2rem;
   border-style: solid;
+  border-radius: 30px;
+  padding: 2rem;
 }
 
 .card2 {
@@ -31,6 +37,19 @@ body {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 1rem;
-  background: #f1f1f1;
+  background: #f1f1f1a8;
   margin-bottom: 2rem;
+  border-style: solid;
+  border-radius: 30px;
+  padding: 2rem;
+}
+
+img {
+  height: 350px;
+  width: 400px;
+}
+
+.card2:nth-child(even) img {
+  order: 2;
+  margin-left: 115px;
 }
