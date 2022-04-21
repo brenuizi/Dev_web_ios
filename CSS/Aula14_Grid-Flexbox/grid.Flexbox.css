@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+body {
+  font-size: 1.3rem;
+  font-family: "Oswald", sans-serif;
+  background: darkslategray;
+}
+
+.container {
+  max-width: 1100px;
+  margin: auto;
+  overflow: auto;
+  padding: 0 2rem;
+}
+
+.pic {
+    max-width: 100%;
+}
+
+.card1 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 1rem;
+  background: dimgray;
+  margin-bottom: 2rem;
+  border-style: solid;
+}
+
+.card2 {
+  float: right;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 1rem;
+  background: #f1f1f1;
+  margin-bottom: 2rem;
+}
