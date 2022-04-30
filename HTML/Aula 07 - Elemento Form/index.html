@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Elemento Form</title>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <h2>Elemento de formulário</h2>
+            <ul>
+                <li><a href="#">input e label</a></li>
+                <li><a href="#">checkbox e radio</a></li>
+                <li><a href="#">select e datalist</a></li>
+                <li><a href="#">textarea</a></li>
+                <li><a href="#">fieldset e legend</a></li>
+                <li><a href="#">Atributo action do elemento form e elemento output</a></li>
+            </ul>
+        </nav>
+        
+    </header>
+    <main>
+        <fieldset>
+            <legend>Interlude</legend>
+            <p>Estou aprendendo HTML, estou gostando num contexto geral, porém, não gostei do conteúdo sobre tabelas.
+            </p>
+        
+            <form action="oi breno,vamo acordar?" name="Churrasco">
+                <label for="cTipocarne">Tipos de carne</label>
+                <input required="required" id="cTipoCarne" type="text">
+        
+                <input type="submit" name="Enviar">
+            </form>
+        </fieldset>
+        
+        <!--Radio-->
+        <p>Qual a sua cor preferida?</p>
+        <input type="Radio" id="V" name="cor">
+        <label for="V">Amarela</label>
+        <input type="Radio" id="A" name="cor">
+        <label for="A">Azul</label>
+        
+        <!--Checkbox-->
+        <p>O que você gosta de fazer?</p>
+        <input type="checkbox" id="V" name="hobby">
+        <label for="V">Jogar</label>
+        <input type="checkbox" id="A" name="hobby">
+        <label for="A">Ouvir música</label>
+        <input type="checkbox" id="E" name="hobby">
+        <label for="E">Ler</label>
+        <input type="checkbox" id="S" name="hobby">
+        <label for="S">Dormir</label>
+        <input type="checkbox" id="P" name="hobby">
+        <label for="P">Comer</label>
+        <input type="checkbox" id="C" name="hobby">
+        <label for="C">Dar risada</label><br>
+        
+        <!--Select lista suspensa-->
+        <label for="MelhorTime">Qual o melhor time?</label>
+        <select name="Time" id="MelhorTime">
+            <option value="saoPaulo">São Paulo</option>
+            <option value="palmeiras">Palmeiras</option>
+            <option value="corinthians">Corinthians</option>
+            <option value="saoBernado">São Bernado</option>
+        
+        </select>
+        <br><br>
+        <!--Tipo Range-->
+        0
+        <input type="range" list="valor_01" min="1" max="10" name="" id="">
+        10
+        <datalist id="valor_01">
+            <option value="1"></option>
+            <option value="2"></option>
+            <option value="3"></option>
+            <option value="4"></option>
+            <option value="5"></option>
+            <option value="6"></option>
+            <option value="7"></option>
+            <option value="8"></option>
+            <option value="9"></option>
+            <option value="10"></option>
+        </datalist>
+        <br><br>
+        <!--TextArea-->
+        <textarea name="" id="" cols="30" rows="10" placeholder="Deixe aqui o seu feedback"></textarea>
+        
+        <!--datalist lista pré definida-->
+    </main>
+
+</body>
+
+</html>

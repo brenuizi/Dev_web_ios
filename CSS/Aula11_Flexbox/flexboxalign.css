@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+body {
+   background-image: url("HarryPotter.jpg");
+   color: white;
+}
+
+header {
+   text-align: center;
+   background-color: rgba(240, 248, 255, 0.411);
+}
+
+.container {
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
+   padding: 5rem;
+}
+
+.filme1 {
+   background-color: rgba(0, 0, 0, 0.637);
+   padding: 1.5rem;
+}
+
+.filme2 {
+   background-color: rgba(0, 0, 0, 0.637);
+   margin-left: 5px;
+}
+   
+
+.filme3 {
+   align-self: flex-start;
+   background-color: rgba(0, 0, 0, 0.637);
+   margin-left: 5px;
+}
+
+.filme4 {
+   align-self: flex-end;
+   background-color: rgba(0, 0, 0, 0.5);
+   padding: 1rem;
+   margin-left: 5px;
+}

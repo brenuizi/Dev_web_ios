@@ -1,0 +1,16 @@
+Questão 1) F
+
+Questão 2) v, v, f
+           v, f, f
+           v, f, v
+           f, f, v
+
+Questão 3) O gato está no sotão e o rato está no quarto
+
+Questão 4) 
+
+1- gosta de gatos, gosta de suco de laranja, tem 11 anos, Raquel, maiô branco, FPS 45
+2- FPS 55, gosta de pássaros, gosta de suco de limonada, Vivian, maiô azul, 10 anos
+3- gosta de cachorros, gosta de suco de maracujá, maiô amarelo, 9 anos, FPS 40, Bruna
+4- gosta de peixes, gosta de suco de morango, tem 8 anos, maiô verde, Ana, FPS 50
+

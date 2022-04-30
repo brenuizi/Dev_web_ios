@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+
+    <title>Sweet and love</title>
+</head>
+
+<body>
+    <h2>Olá! aqui está um questionário para obtermos melhores experiências sobre nossos clientes</h2>
+
+    <main>
+        <form>
+            <label for="cNome">Nome:</label>
+            <input autocomplete="off" type="text" size=25 name="tNome" id="cNome
+" required="Preencha este campo">
+            <br>
+            <label for="cIdade">Idade:</label>
+            <input autocomplete="off" type="text" size=26 name="tIdade" id="cIdade
+" required="Preencha este campo">
+            <br>
+            <label for="cEmail">E-mail:</label>
+            <input autocomplete="off" type="text" size=25 name="tEmail" id="cEmail
+" required="Preencha este campo">
+
+            <h3>Agora sobre sua experiência...</h3>
+            <h4>Você indicaria a loja para algum amigo(a)?</h4>
+
+            <input type="radio" name="tipo" id="Si" value="S" />
+            <label for="Sim">Sim</label><br />
+            <input type="radio" name="tipo" id="no" value="N" />
+            <label for="no">Não</label><br />
+
+            <h4>O que mais te agradou em nossa loja?</h4>
+            <input type="checkbox" id="doce1" name="doce1" value="docinho" />
+            <label for="doce1"> Doces</label><br />
+            <input type="checkbox" id="Ambiente1" name="Ambiente1" value="Ambient" />
+            <label for="Ambiente1"> Ambiente</label><br />
+            <input type="checkbox" id="Entrega" name="Entrega" value="EntregaP" />
+            <label for="Entrega"> Entrega do pedido (se pedido pelo app)</label><br />
+            <input type="checkbox" id="Atendimento1" name="atendimento1" value="atend" />
+            <label for="Atendimento1"> Atendimento</label><br />
+            <input type="checkbox" id="valores1" name="valores1" value="valor" />
+            <label for="valores1"> Valores</label><br />
+
+            <h4>Qual foi o seu último pedido conosco?</h4>
+            <label for="ulpedi"></label><br />
+            <input autocomplete="off" type="text" size=25 name="tNome" id="cNome" /><br />
+
+            <h4>Em qual loja você foi atendido?</h4><br />
+            <label for="loja">Selecione a unidade:</label>
+            <select id="loja" name="loja">
+                <option value="aclimacao">Aclimação</option>
+                <option value="liberdade">Liberdade</option>
+                <option value="tatuape">Tatuapé</option>
+                <option value="sao_joaquim">São Joaquim</option>
+                <br>
+                <input type="submit" id="8">
+                <p><strong>Qual a sua vontade voltar ao restaurante?</strong></p>
+                0
+                <input type="range" list="avaliação_1" name="1" id="10" min="1" max="10">
+                10
+                <datalist id="avaliação_1">
+                    <option value="1"></option>
+                    <option value="2"></option>
+                    <option value="3"></option>
+                    <option value="4"></option>
+                    <option value="5"></option>
+                    <option value="6"></option>
+                    <option value="7"></option>
+                    <option value="8"></option>
+                    <option value="9"></option>
+                    <option value="10"></option>
+                </datalist>
+                <br>
+
+                <textarea name="feedback" id="afeedback" cols="30" rows="10"></textarea>
+                <br>
+                 <input type="submit">   
+             </form>
+
+    </main>
+
+</body>
+
+</html>
