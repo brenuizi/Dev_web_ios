@@ -1,0 +1,67 @@
+@charset "utf-8";
+
+body {
+    background-image: url(SerieAnne1.jpg);
+    background-size: 50%;
+    background-repeat: repeat;
+    width: 100%;
+}
+
+header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: burlywood;
+    text-align: center;
+    color: #e6e6fa;
+    line-height: 200%;
+    padding: 0.3em;
+}
+
+main {
+    padding: 3em;
+}
+
+img {
+    width: 620px;
+    height: 340px;
+}
+
+figure {
+    width: 620px;
+    padding: 8px;
+    border: 2px solid;
+    border-color: chocolatew;
+}
+
+figcaption {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+h3 {
+    color: chocolate;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.4em;
+    color: white;
+}
+
+.sobre {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.4em;
+    color: white;
+}
+
+footer {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+
+.finish {
+    color: coral;
+}

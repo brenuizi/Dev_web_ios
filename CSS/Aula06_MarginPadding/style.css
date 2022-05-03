@@ -1,0 +1,66 @@
+@charset "utf-8";
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: lightpink;
+    color: white;
+}
+
+.btn {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    margin-left: 39px;
+}
+
+.home {
+    margin-top: 35px;
+    margin-left: 41%;
+}
+
+a {
+    text-decoration: none;
+}
+
+.biografia {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 22px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Updock', cursive;
+    font-size: 50px;
+    color: brown;
+}
+
+h2 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    margin-top: 50px;
+    margin-left: 30px;
+    background-color: brown;
+}
+
+.albuns {
+    width: 350px;
+    height: 300px;
+    margin-top: 15px;
+    margin-left: 40px;
+}
+
+.namealbuns {
+    font-size: 22px;
+    margin-top: 60px;
+    margin-left: 40px; 
+    color: black; 
+}
+
+footer {
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 50px;
+}

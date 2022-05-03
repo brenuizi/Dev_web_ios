@@ -1,0 +1,73 @@
+@charset "UTF-8";
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: black;
+    color: white;
+}
+
+header {
+    background-image: url(blackcapa.jpeg);
+    background-size: cover;
+    background-position: center;
+    height: 45vh;
+    padding: 0 20px;
+}
+
+.home {
+    margin-top: 40px;
+    margin-left: 10px;
+}
+
+.btn {
+    background-color: steelblue;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    margin-right: 0.2rem;
+    font-size: 0.3cm;
+}
+
+.btn2 {
+    background-color: red;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    margin-right: 0.2rem;
+    font-size: 0.4cm;
+}
+
+article {
+    text-align: center;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}
+
+a {
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+img {
+    width: 350px;
+    height: 300px;
+}
+
+figure {
+    width: 350px;
+    padding: 8px;
+    border: 2px solid;
+    margin-left: 35%;
+    margin-top: 70px;
+}
+
+figcaption {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+p {
+    text-align: center;
+    margin-top: 45px;
+}
