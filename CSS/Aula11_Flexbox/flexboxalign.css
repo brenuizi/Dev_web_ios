@@ -2,6 +2,8 @@
 
 body {
    background-image: url("HarryPotter.jpg");
+   background-size: cover;
+   color: white;
 }
 
 header {
@@ -9,14 +11,35 @@ header {
    background-color: rgba(240, 248, 255, 0.411);
 }
 
+main {
+   padding: 100px;
+}
+
 .container {
    display: flex;
+   align-items: center;
 }
 
 .filme1 {
-   align-items: center;
+   background-color: black;
+   padding: 10px 15px;
+   margin-right: 1px;
 }
 
 .filme2 {
-   align-items: center;
+   background-color: black;
+   padding: 10px 15px;
+   margin-right: 1px;
+}
+
+.filme3 {
+   background-color: black;
+   padding: 10px 15px;
+   margin-right: 1px;
+}
+
+.filme4 {
+   background-color: black;
+   padding: 10px 15px;
+   margin-right: 1px;
 }
