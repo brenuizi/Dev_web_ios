@@ -9,7 +9,7 @@ body {
 
 header {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: burlywood;
+    background-color: rgba(222, 184, 135, 0.404);
     text-align: center;
     color: #e6e6fa;
     line-height: 200%;
