@@ -1,45 +1,58 @@
 @charset "utf-8";
 
 body {
-   background-image: url("HarryPotter.jpg");
-   background-size: cover;
-   color: white;
+    background-image: url('HarryPotter.jpg');
+    background-size: cover;
+    color: white;
 }
 
 header {
-   text-align: center;
-   background-color: rgba(240, 248, 255, 0.411);
+    text-align: center;
+    background-color: rgb(0, 136, 255);
 }
 
 main {
-   padding: 100px;
+    padding: 100px;
 }
 
 .container {
-   display: flex;
-   align-items: center;
+    display: flex;
+    align-items: center;
 }
 
 .filme1 {
-   background-color: black;
-   padding: 10px 15px;
-   margin-right: 1px;
+    background-color: rgba(0, 0, 0, 0.575);
+    padding: 10px 15px;
+    margin-right: 1px;
+    border-radius: 5%;
+    flex: 3;
+    order: 2;
 }
 
 .filme2 {
-   background-color: black;
-   padding: 10px 15px;
-   margin-right: 1px;
+    background-color: rgba(0, 0, 0, 0.575);
+    padding: 10px 15px;
+    margin-right: 1px;
+    border-radius: 5%;
+    flex: 5;
+    order: 1;
 }
 
 .filme3 {
-   background-color: black;
-   padding: 10px 15px;
-   margin-right: 1px;
+    background-color: rgba(0, 0, 0, 0.575);
+    padding: 10px 15px;
+    margin-right: 1px;
+    border-radius: 5%;
+    flex: 5;
+    order: 4;
 }
 
 .filme4 {
-   background-color: black;
-   padding: 10px 15px;
-   margin-right: 1px;
+    background-color: rgba(0, 0, 0, 0.575);
+    padding: 10px 15px;
+    margin-right: 1px;
+    border-radius: 5%;
+    flex: 5;
+    order: 3;
+    align-self: flex-end;
 }
