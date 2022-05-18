@@ -76,8 +76,4 @@ console.log(
 //Retorne todos os alunos que tirou nota maior que 6
 //Retorne o primeiro aluno que tirou nota menor que 5
 
-const alunos = [
-    {
-    nome:
-    }
-]
+
