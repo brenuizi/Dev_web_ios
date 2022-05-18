@@ -33,6 +33,11 @@ names5 [2] = 'Silvana';
 
 console.log(names5);
 
+//Exercício 2
 
+const series = ['Anne with an E', 'American horror story', 'Pretty litte liars', 'Emily in Paris', 'Stranger Things']
 
-var series
+console.log(series);
+
+const series1 = ['Anne with an E', 'American horror story', 'Pretty litte liars', 'Emily in Paris', 'Stranger Things']
+let um = series1
