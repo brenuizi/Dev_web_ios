@@ -35,9 +35,30 @@ console.log(names5);
 
 //Exercício 2
 
-const series = ['Anne with an E', 'American horror story', 'Pretty litte liars', 'Emily in Paris', 'Stranger Things']
+const series = ['Anne with an E', 'American horror story', 'Pretty litte liars', 'Emily in Paris', 'Stranger Things'];
 
 console.log(series);
 
-const series1 = ['Anne with an E', 'American horror story', 'Pretty litte liars', 'Emily in Paris', 'Stranger Things']
-let um = series1
+const series1 = ['Anne with an E', 'American horror story', 'Pretty litte liars', 'Stranger Things', 'Emily in Paris'];
+series1.splice(4);
+
+console.log(series1);
+
+const series2 = ['Anne with an E', 'American horror story', 'Pretty litte liars', 'Stranger Things'];
+let dois = series2.push('Alice in borderland');
+
+console.log(series2);
+
+const series3 =  ['Anne with an E', 'American horror story', 'Pretty litte liars', 'Stranger Things', 'Alice in borderland'];
+let tres = series3.pop('Alice in borderland');
+
+console.log(series3);
+
+const series4 = ['Anne with an E', 'American horror story', 'Pretty litte liars', 'Stranger Things'];
+const favs = series4.slice(1);
+
+console.log(`Top 3, séries fav:, ${series4,[favs]}`);
+
+
+
+

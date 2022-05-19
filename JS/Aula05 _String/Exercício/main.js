@@ -13,5 +13,8 @@ let LeroLero4 = LeroLero3.replace ('Dr Stephen Strange' , 'Feiticeira Escarlate'
 console.log(LeroLero4);
 
 let LeroLero5 = 'Feiticeira Escarlate lança um feitiço proibido que abre um portal para o multiverso. No entanto, surge uma ameaça que pode ser grande demais para sua equipe lidar.'
-console.log()
-console.log(LeroLero5.charAt([13]));
+let LeroLero6 = LeroLero.split(' ');
+console.log(LeroLero6[13])
+
+let LeroLero7 = 'multiverso';
+console.log(LeroLero7.toUpperCase());
