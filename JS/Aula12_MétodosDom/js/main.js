@@ -60,4 +60,3 @@ ul.style.listStyle = 'decimal inside';
 
 // Dica do Dieguinho lifestyle para alterar apenas um pai especifico
 let teste = document.getElementById('itens');
-let teste
