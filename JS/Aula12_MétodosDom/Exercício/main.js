@@ -21,4 +21,25 @@ const inserir = () => {
     img.style.display = 'block';
     img.style.marginTop = '75px';
 }
-b1.addEventListener('click', inserir );
+b1.addEventListener('click', inserir);
+
+const nome = () => {
+    let usuario = prompt('Por favor, preencha seu nome:')
+
+    let paragrafo = document.createElement('p')
+    paragrafo.innerHTML = (`Olá ${usuario}, Bem-vindo a nossa academia.`);
+    document.body.appendChild(paragrafo)
+    document.body.style.color = 'red';
+    document.body.style.fontSize = '1.8rem'
+};
+
+const tabuada = () => {
+    let multiplicação = parseInt(prompt('Por favor, digite um número para multiplicação:'));
+    if (isNaN(multiplicação)) {
+        alert('Insira um valor numérico')
+        return;
+    }
+    for (let contador = 1; contador <= 10; contador++) {
+        document.write(`${multiplicação} X ${contador} = ${multiplicação * contador} <br/>`);
+    }
+}

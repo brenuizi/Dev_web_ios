@@ -30,15 +30,15 @@ header {
     padding: 3rem 2rem;
 }
 
-#formulario {
+#form {
     padding: 2rem;
     background: rgba(0, 0, 0, 0.747);
     border-radius: 5px;
 }
-#formulario label {
+#formu label {
     display: block;
 }
-#formulario input[type='text'] {
+#form input[type='text'] {
     width: 100%;
     padding: 8px;
     margin-bottom: 10px;
@@ -51,7 +51,7 @@ header {
     width: 100%;
     padding: 10px 15px;
     border: 0;
-    background: #333;
+    background: green;
     color: #fff;
     border-radius: 5px;
     margin: 5px 0;
@@ -66,4 +66,10 @@ header {
     color: #fff;
     border-radius: 5px;
     margin: 5px 0;
+}
+
+.userfinish {
+    padding: 2rem;
+    background: rgba(0, 0, 0, 0.747);
+    border-radius: 5px;
 }

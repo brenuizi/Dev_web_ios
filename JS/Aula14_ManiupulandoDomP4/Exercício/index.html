@@ -11,33 +11,40 @@
 
 <body>
     <header>
-        <h1>Cadastro de usuários</h1>
+        <h1 id="h1">Cadastro de usuários</h1>
     </header>
     <section class="container">
-        <form id="formulario">
+        <form id="form">
             <h1>Adicionar ficha</h1>
-            <div class="msg"></div>
             <div>
                 <label for="name">Nome:</label>
-                <input type="text" id="name" required />
+                <input type="text" id="name" />
             </div>
             <div>
-                <label for="email">Data de nascimento:</label>
-                <input type="text" id="dataNasc" required />
+                <label for="nasc">Data de nascimento:</label>
+                <input type="date" id="nasc" />
             </div>
-            <div class="msg_email"></div>
             <div>
                 <label for="email">E-mail:</label>
-                <input type="text" id="email" required />
+                <input type="text" id="email" />
             </div>
             <div>
-                <label for="name">Item:</label>
-                <input type="text" id="item" required />
+                <label for="item">Item:</label>
+                <input type="number" id="item"/>
             </div>
-            <input class="btn" type="submit" value="Incluir" />
-            <input class="btn" type="submit" value="Excluir" />
+            <div>
+                <button class="btn" type="submit" value="Add" id="adicionar">Adicionar</button>
+                <button class="btn2" type="button" value="Del" id="excluir">Excluir</button>
+            </div>
         </form>
     </section>
+    
+    <section class="userfinish">
+        <h2>Usuários</h2>
+        <ol start="0" id="users"></ol>
+    </section>
+
+
     <script src="main.js"></script>
 </body>
 
