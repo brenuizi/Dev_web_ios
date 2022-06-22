@@ -27,4 +27,4 @@ Site utilizado: https://pt-br.reactjs.org/docs/hooks-overview.html
 ----------------------------------------//------------------------------------------------
 
 Componentes:
-Os componentes no React são compostos
+Os componentes no React são compostos em 2 partes, os componentes funcionais e os componentes com classe, sendo utilizado juntamente com props como elemento principal para chama-lás, a diferença para componentes com classe é que é acrescentado a função de renderizar (render).  
