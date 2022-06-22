@@ -1,1 +1,30 @@
-React
+React:
+React é uma junção de HTML com JavaScript, uma biblioteca como se fosse um armazenamento de um conjunto de dados que possam ser reutilizados. Com o propósito de renderizar a página e alterar apenas os elementos adicionais, o restante do conteúdo continua intacto.
+
+Utilizei a explicação dada em sala de aula e com base nos comentários argumentei a respota.
+
+----------------------------------------//------------------------------------------------
+
+Diferença de biblioteca e framework:
+Em conclusão os dois não tem muita diferença e fazem o mesmo propósito, são códigos já pronto feito por terceiros, a diferença é que a biblioteca nós que decidimos aonde iremos inserir o código já pronto e o framework é um modelo pronto de um código criado que determina aonde devemos inserir o conteúdo adicional, aonde que necessita. 
+
+Site utilizado: https://www.freecodecamp.org/portuguese/news/a-diferenca-entre-um-framework-e-uma-biblioteca/#:~:text=A%20diferen%C3%A7a%20t%C3%A9cnica%20entre%20um,est%C3%A1%20ao%20encargo%20do%20fluxo.
+
+----------------------------------------//------------------------------------------------
+
+Props: 
+Props é um armazenamento de dados, utilizado para facilitar o modo de chamar o conteúdo inserido dentro da função que você quer executar. Somente pode ser aplicados em elementos de pai para filho.
+
+Site utilizado: https://www.freecodecamp.org/portuguese/news/componentes-funcionais-props-e-jsx-em-react-tutorial-de-react-js-para-iniciantes/
+
+----------------------------------------//------------------------------------------------
+
+Hooks:
+Hooks é como se fosse uma maneira diferente e simplificada de criar componentes com classes, de uma forma menor, aonde você também pode criar os seus próprios componentes internos para reutilizá-los.
+
+Site utilizado: https://pt-br.reactjs.org/docs/hooks-overview.html
+
+----------------------------------------//------------------------------------------------
+
+Componentes:
+Os componentes no React são compostos
