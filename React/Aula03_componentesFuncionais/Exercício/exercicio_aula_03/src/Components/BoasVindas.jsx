@@ -1,4 +1,3 @@
-
 const BoasVindas = (props) => {
     return (
         <section>
