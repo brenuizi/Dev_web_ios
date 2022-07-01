@@ -1,5 +1,5 @@
 const estilo = {color: 'red'};
-const estilo2 = {color: 'black'};
+const estilo2 = {color: 'orange'};
 
 const Sobre = () => {
     return (
