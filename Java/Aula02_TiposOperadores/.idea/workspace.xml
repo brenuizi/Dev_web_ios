@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0de69697-41e6-46e2-9a54-1d53ee1f3d3f" name="Changes" comment="" />
+    <list default="true" id="0de69697-41e6-46e2-9a54-1d53ee1f3d3f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Aula10_Matriz/Exercicio/src/Exercicio_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto_02_Oper_Arit/out/production/Projeto_02_Oper_Arit/OperArit.class" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto_02_Oper_Arit/src/Projeto_02_Oper_Arit/OperArit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto_03_Oper_Relac/out/production/Projeto_03_Oper_Relac/OperRelac.class" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto_03_Oper_Relac/src/Projeto_03_Oper_Relac/OperRelac.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto_04_Oper_Log/out/production/Projeto_04_Oper_Log/OperLog.class" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto_04_Oper_Log/src/Projeto_04_Oper_Log/OperLog.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +15,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2AdSbEYdLvDYd5VTARrzNeLnvjr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,6 +29,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Turma Noite\Documents\Breno Vinicius\Dev_web_ios\Java\Aula02_TiposOperadores\Projeto_04_Oper_Log\src" />
+      <recent name="C:\Users\Turma Noite\Documents\Breno Vinicius\Dev_web_ios\Java\Aula02_TiposOperadores\Projeto_03_Oper_Relac\src" />
+      <recent name="C:\Users\Turma Noite\Documents\Breno Vinicius\Dev_web_ios\Java\Aula02_TiposOperadores\Projeto_02_Oper_Arit\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -30,5 +46,16 @@
       <updated>1655338042020</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
