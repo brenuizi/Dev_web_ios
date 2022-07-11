@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33f68a7c-0cb6-4f67-a65e-905e388c2cc6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Aula10_Matriz/Projeto_31/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula10_Matriz/Projeto_31/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula10_Matriz/Projeto_31/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula10_Matriz/Projeto_31/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula10_Matriz/Projeto_31/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula10_Matriz/Projeto_31/Projeto_31_Matriz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula10_Matriz/Projeto_31/out/production/Projeto_31_Matriz/Exemplo1Matriz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula10_Matriz/Projeto_31/out/production/Projeto_31_Matriz/Exemplo2Matriz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula10_Matriz/Projeto_31/src/Exemplo1Matriz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula10_Matriz/Projeto_31/src/Exemplo2Matriz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula06_EstruturaFor/ Projeto_18_For/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula06_EstruturaFor/ Projeto_18_For/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula06_EstruturaFor/ Projeto_18_For/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula06_EstruturaFor/ Projeto_18_For/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula06_EstruturaFor/ Projeto_18_For/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula06_EstruturaFor/ Projeto_18_For/Projeto_18_For.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula06_EstruturaFor/ Projeto_18_For/out/production/Projeto_18_For/Exemplo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula06_EstruturaFor/ Projeto_18_For/out/production/Projeto_18_For/Exemplo2While.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula06_EstruturaFor/ Projeto_18_For/out/production/Projeto_18_For/ExemploIdade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula06_EstruturaFor/ Projeto_18_For/out/production/Projeto_18_For/ExemploIdadeWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula06_EstruturaFor/ Projeto_18_For/out/production/Projeto_18_For/Programa1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula06_EstruturaFor/ Projeto_18_For/src/Exemplo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula06_EstruturaFor/ Projeto_18_For/src/Exemplo2While.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula06_EstruturaFor/ Projeto_18_For/src/ExemploIdade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula06_EstruturaFor/ Projeto_18_For/src/ExemploIdadeWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula06_EstruturaFor/ Projeto_18_For/src/Programa1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula09_Strings/Exercicio_09/src/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula09_Strings/Exercicio_09/src/Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula10_Matriz/ Projeto_31_Matriz/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula10_Matriz/ Projeto_31_Matriz/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula10_Matriz/ Projeto_31_Matriz/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula10_Matriz/ Projeto_31_Matriz/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula10_Matriz/ Projeto_31_Matriz/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula10_Matriz/ Projeto_31_Matriz/Projeto_31_Matriz.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula10_Matriz/ Projeto_31_Matriz/out/production/Projeto_31_Matriz/Exemplo1Matriz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula10_Matriz/ Projeto_31_Matriz/out/production/Projeto_31_Matriz/Exemplo2Matriz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula10_Matriz/ Projeto_31_Matriz/src/Exemplo1Matriz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula10_Matriz/ Projeto_31_Matriz/src/Exemplo2Matriz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/Aula03_componentesFuncionais/Exercício/exercicio_aula_03/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../React/Aula03_componentesFuncionais/Exercício/exercicio_aula_03/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/Aula03_componentesFuncionais/Exercício/exercicio_aula_03/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../React/Aula03_componentesFuncionais/Exercício/exercicio_aula_03/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BGxoWWPLuBsal0s3kxqCMa3YHz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/breno/OneDrive/Documentos/Breno Vinicius - IOS/Dev_web_ios/Java&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33f68a7c-0cb6-4f67-a65e-905e388c2cc6" name="Changes" comment="" />
+      <created>1656546400000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656546400000</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

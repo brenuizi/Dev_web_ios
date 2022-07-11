@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aula07_TesteMesa/Aula07_TesteMesa.iml" filepath="$PROJECT_DIR$/Aula07_TesteMesa/Aula07_TesteMesa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula08_Vetores/Aula08_Vetores.iml" filepath="$PROJECT_DIR$/Aula08_Vetores/Aula08_Vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula04_DesviosEncadeados/Exercício_Aula_04/Exercício_Aula_04.iml" filepath="$PROJECT_DIR$/Aula04_DesviosEncadeados/Exercício_Aula_04/Exercício_Aula_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula06_EstruturaFor/Exercício_For/Exercício_For.iml" filepath="$PROJECT_DIR$/Aula06_EstruturaFor/Exercício_For/Exercício_For.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula02_TiposOperadores/Projeto_02_Oper_Arit/Projeto_02_Oper_Arit.iml" filepath="$PROJECT_DIR$/Aula02_TiposOperadores/Projeto_02_Oper_Arit/Projeto_02_Oper_Arit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula02_TiposOperadores/Projeto_03_Oper_Relac/Projeto_03_Oper_Relac.iml" filepath="$PROJECT_DIR$/Aula02_TiposOperadores/Projeto_03_Oper_Relac/Projeto_03_Oper_Relac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula02_TiposOperadores/Projeto_04_Oper_Log/Projeto_04_Oper_Log.iml" filepath="$PROJECT_DIR$/Aula02_TiposOperadores/Projeto_04_Oper_Log/Projeto_04_Oper_Log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula04_DesviosEncadeados/Projeto_08_Adivinha/Projeto_08_Adivinha.iml" filepath="$PROJECT_DIR$/Aula04_DesviosEncadeados/Projeto_08_Adivinha/Projeto_08_Adivinha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula04_DesviosEncadeados/Projeto_09_Adivinha_Random/Projeto_09_Adivinha_Random.iml" filepath="$PROJECT_DIR$/Aula04_DesviosEncadeados/Projeto_09_Adivinha_Random/Projeto_09_Adivinha_Random.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula04_DesviosEncadeados/Projeto_10_Swich_case/Projeto_10_Swich_case.iml" filepath="$PROJECT_DIR$/Aula04_DesviosEncadeados/Projeto_10_Swich_case/Projeto_10_Swich_case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula04_DesviosEncadeados/Projeto_11_swich_case_II/Projeto_11_swich_case_II.iml" filepath="$PROJECT_DIR$/Aula04_DesviosEncadeados/Projeto_11_swich_case_II/Projeto_11_swich_case_II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula05_EstruturaWhile/Projeto_12_Imprimir_Sequencia/Projeto_12_Imprimir_Sequencia.iml" filepath="$PROJECT_DIR$/Aula05_EstruturaWhile/Projeto_12_Imprimir_Sequencia/Projeto_12_Imprimir_Sequencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula05_EstruturaWhile/Projeto_16_Do_While/Projeto_16_Do_While.iml" filepath="$PROJECT_DIR$/Aula05_EstruturaWhile/Projeto_16_Do_While/Projeto_16_Do_While.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula06_EstruturaFor/Projeto_18_for/Projeto_18_for.iml" filepath="$PROJECT_DIR$/Aula06_EstruturaFor/Projeto_18_for/Projeto_18_for.iml" />
+    </modules>
+  </component>
+</project>
